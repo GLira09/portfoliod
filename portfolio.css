@@ -13,7 +13,9 @@ body {
 .apresentacao__conteudo_titulo{ text-align: center;}
 
 .apresentacao__conteudo_imagem{
-  
+  height: 10px; /* Define a altura do corpo para ocupar toda a altura da tela */
+  width: 2px;
+  align-items: flex-start; /* Alinha os itens no topo */
 }
 
 .cabecalho__marca__nome{ text-align: center; }
