@@ -13,8 +13,8 @@ body {
 .apresentacao__conteudo_titulo{ text-align: center;}
 
 .apresentacao__conteudo_imagem{
-  height: 90px; /* Define a altura do corpo para ocupar toda a altura da tela */
-
+  width: 200px; /* Define a largura desejada para a imagem */
+            height: auto; /* Mantém a proporção da imagem */
 }
 
 .cabecalho__marca__nome{ text-align: center; }
